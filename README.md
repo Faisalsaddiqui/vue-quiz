@@ -40,5 +40,5 @@ At the end of each quiz, users receive their score and a summary of correct answ
 
 The backend API for this application is built in Laravel, and handles data management, quiz logic, and user authentication. Here’s the Backend Repository link for more details on API endpoints and setup instructions.
 
-**Contributing:**
+### Contributing:
 Contributions are welcome! If you'd like to improve or add features to this project, please submit a pull request. Ensure that your code is well-documented and adheres to best practices.
