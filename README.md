@@ -25,6 +25,7 @@ Clone the repository:
 git clone https://github.com/your-username/quiz-app-frontend.git
 ```
 **Usage User Registration & Login:** New users can register for an account, while existing users can log in. All authentication is handled by Laravel Sanctum for secure access.
+
 **Take a Quiz:** After logging in, users can select from available quizzes. Answer questions one by one, with options for navigating between questions.
 
 **View Results:** At the end of each quiz, users receive their score and a summary of correct answers. Results are displayed in a user-friendly format, allowing users to review their performance.
