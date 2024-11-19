@@ -4,12 +4,18 @@ This Quiz App allows students to take quizzes on various subjects, tracks their 
 
 ### Features
 **User Authentication:** Secure login and registration, managed with Laravel Sanctum.
+
 **Quiz Taking:** Students can take quizzes, answer questions, and submit responses.
+
 **Results Display:** At the end of each quiz, students can view their scores and correct answers.
+
 **Responsive UI:** Optimized for both desktop and mobile devices.
+
 **Technologies Used**
 **Frontend:** Vue.js, Vue Router, Vuex
+
 **Backend:** Laravel API with Sanctum for authentication
+
 **Styling:** CSS, Bootstrap
 Installation
 Clone the repository:
