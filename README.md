@@ -12,6 +12,7 @@ This Quiz App allows students to take quizzes on various subjects, tracks their 
 **Responsive UI:** Optimized for both desktop and mobile devices.
 
 **Technologies Used**
+
 **Frontend:** Vue.js, Vue Router, Vuex
 
 **Backend:** Laravel API with Sanctum for authentication
