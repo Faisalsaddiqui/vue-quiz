@@ -18,12 +18,12 @@ This Quiz App allows students to take quizzes on various subjects, tracks their 
 **Backend:** Laravel API with Sanctum for authentication
 
 **Styling:** CSS, Bootstrap
-Installation
+
+**Installation**
 Clone the repository:
-
+```
 git clone https://github.com/your-username/quiz-app-frontend.git
-Navigate to the project directory:
-
+```
 **Usage**
 User Registration & Login:
 
