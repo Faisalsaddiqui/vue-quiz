@@ -32,5 +32,5 @@ git clone https://github.com/your-username/quiz-app-frontend.git
 
 **API:** The backend API for this application is built in Laravel, and handles data management, quiz logic, and user authentication. Here’s the Backend Repository link for more details on API endpoints and setup instructions.
 
-**Contributing**
+**Contributing:**
 Contributions are welcome! If you'd like to improve or add features to this project, please submit a pull request. Ensure that your code is well-documented and adheres to best practices.
