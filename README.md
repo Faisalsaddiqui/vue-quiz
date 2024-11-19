@@ -2,7 +2,7 @@
 The Quiz App is a Vue.js-based frontend application where users can take quizzes, view their scores, and get results at the end of each quiz. This project is integrated with a Laravel API backend, which manages data and authentication using Laravel Sanctum.
 This Quiz App allows students to take quizzes on various subjects, tracks their responses, and displays results upon completion. The app provides an engaging experience and a user-friendly interface, ensuring seamless quiz-taking functionality. The backend, built in Laravel, handles quiz data and user authentication, while Laravel Sanctum manages secure API access.
 
-### Features
+### Features:
 **User Authentication:** Secure login and registration, managed with Laravel Sanctum.
 
 **Quiz Taking:** Students can take quizzes, answer questions, and submit responses.
@@ -11,7 +11,7 @@ This Quiz App allows students to take quizzes on various subjects, tracks their 
 
 **Responsive UI:** Optimized for both desktop and mobile devices.
 
-**Technologies Used**
+### Technologies Used:
 
 **Frontend:** Vue.js, Vue Router, Vuex
 
