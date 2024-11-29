@@ -19,7 +19,7 @@ This Quiz App allows students to take quizzes on various subjects, tracks their 
 
 **• Styling:** CSS, Bootstrap
 
-**Installation**
+**Installation:**
 Clone the repository:
 ```
 git clone https://github.com/your-username/quiz-app-frontend.git
