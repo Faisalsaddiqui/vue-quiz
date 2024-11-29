@@ -19,12 +19,11 @@ This Quiz App allows students to take quizzes on various subjects, tracks their 
 
 **• Styling:** CSS, Bootstrap
 ### How to run
-**Installation:**
 Clone the repository
 ```
 git clone https://github.com/your-username/quiz-app-frontend.git
 ```
-**Navigate to project directory**
+Navigate to project directory
 ```
 cd vue-quiz
 ```
