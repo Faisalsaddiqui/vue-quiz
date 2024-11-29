@@ -18,7 +18,7 @@ This Quiz App allows students to take quizzes on various subjects, tracks their 
 **• Backend:** Laravel API with Sanctum for authentication
 
 **• Styling:** CSS, Bootstrap
-### HOw to run
+### How to run
 **Installation:**
 Clone the repository:
 ```
