@@ -24,6 +24,10 @@ Clone the repository
 ```
 git clone https://github.com/your-username/quiz-app-frontend.git
 ```
+**Navigate to project directory**
+```
+cd vue-quiz
+```
 ### Usage User Registration & Login:
 
 New users can register for an account, while existing users can log in. All authentication is handled by Laravel Sanctum for secure access.
